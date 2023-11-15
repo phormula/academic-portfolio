@@ -1,0 +1,8 @@
+$fa-font-path: '@fortawesome/fontawesome-free/webfonts';
+@import '@fortawesome/fontawesome-free/scss/fontawesome.scss';
+
+// You can include all the other styles the same as before
+@import '@fortawesome/fontawesome-free/scss/solid.scss';
+@import '@fortawesome/fontawesome-free/scss/brands.scss';
+
+@import 'bootstrap/scss/bootstrap';

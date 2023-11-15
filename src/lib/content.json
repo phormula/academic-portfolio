@@ -1,0 +1,9 @@
+{
+  "name": "John Doe",
+  "about": "Intro info",
+  "publications": ["Publication 1", "Publication 2"],
+  "google_scholar": "https://scholar.google.com",
+  "research_area": "",
+  "github_repo": "https://github.com/",
+  "email": "me@example.com"
+}
